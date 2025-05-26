@@ -1,4 +1,4 @@
-imimport { db, auth, provider } from './firebase-config.js';
+import { db, auth, provider } from './firebase-config.js';
 import {
   signInWithEmailAndPassword,
   createUserWithEmailAndPassword,
